@@ -4,6 +4,8 @@ A REST API for managing products, built with **Node.js**, **Express 5** and **Ty
 
 This is **Project 10** of the Udemy course [React de Principiante a Experto](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/). It is the backend of a full-stack app whose React client lives in [its own repository](https://github.com/TarekM-7/fullstack-project-node-react-typescript-client). The goal of this project is to build a REST API from scratch with TypeScript, connect it to a real database, test it, document it and deploy it.
 
+![The Swagger UI page under a blue top bar with a globe logo: the title "REST API Node.js / Express / Typescript" with version 1.0.0 and OAS 3.0 badges, and the Products section listing the six endpoints with color-coded GET, POST, GET, PUT, PATCH and DELETE labels, followed by the Product schema](docs/screenshot.png)
+
 **Live demo:** [the app on Vercel](https://fullstack-project-node-react-typesc.vercel.app/) · [the API docs on Render](https://fullstack-project-node-react-typescript.onrender.com/docs/)
 
 > **Hosting:** the API and its PostgreSQL database run on [Render](https://render.com/), and the React client on [Vercel](https://vercel.com/), all on free plans. A free service can go to sleep when nobody is using it, so the first request may take a while to answer, and the live demo may stop working at some point.
