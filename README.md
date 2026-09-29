@@ -2,7 +2,7 @@
 
 A REST API for managing products, built with **Node.js**, **Express 5** and **TypeScript**. It stores the products in **PostgreSQL** through **Sequelize**, validates every request, documents itself with **Swagger**, and is covered by integration tests written with **Jest** and **Supertest**.
 
-This is **Project 10** of the Udemy course [React de Principiante a Experto](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/). It is the backend of a full-stack app whose React client lives in [its own repository](https://github.com/TarekM-7/fullstack-project-node-react-typescript-client). The goal of this project is to build a REST API from scratch with TypeScript, connect it to a real database, test it, document it and deploy it.
+This is **Project 10** of the Udemy course [React de Principiante a Experto](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/). It is the backend of a full-stack app whose React client lives in [its own repository](https://github.com/TarekM-7/product-manager-client). The goal of this project is to build a REST API from scratch with TypeScript, connect it to a real database, test it, document it and deploy it.
 
 ![The Swagger UI page under a blue top bar with a globe logo: the title "REST API Node.js / Express / Typescript" with version 1.0.0 and OAS 3.0 badges, and the Products section listing the six endpoints with color-coded GET, POST, GET, PUT, PATCH and DELETE labels, followed by the Product schema](docs/screenshot.png)
 
@@ -104,8 +104,8 @@ Requirements: [Node.js](https://nodejs.org/) 20 or later and a [PostgreSQL](http
 
 ```bash
 # Clone the repository
-git clone https://github.com/TarekM-7/fullstack-project-node-react-typescript-server.git
-cd fullstack-project-node-react-typescript-server
+git clone https://github.com/TarekM-7/product-manager-server.git
+cd product-manager-server
 
 # Install dependencies
 npm install
