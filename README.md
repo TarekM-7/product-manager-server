@@ -110,9 +110,9 @@ cd product-manager-server
 # Install dependencies
 npm install
 
-# Create a .env file with these two variables
-# DATABASE_URL=postgres://user:password@host:5432/database
-# FRONTEND_URL=http://localhost:5173
+# Create your .env file
+cp .env.example .env
+# then set DATABASE_URL and FRONTEND_URL in .env
 
 # Start the dev server
 npm run dev
