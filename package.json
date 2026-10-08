@@ -4,7 +4,7 @@
   "description": "REST API's con Express y Typescript",
   "license": "ISC",
   "author": "Tarek Mariscal",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "build": "tsc",
