@@ -41,5 +41,8 @@
     "sequelize-typescript": "^2.1.6",
     "swagger-jsdoc": "^6.3.0",
     "swagger-ui-express": "^5.0.1"
+  },
+  "engines": {
+    "node": "24.x"
   }
 }

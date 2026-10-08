@@ -100,7 +100,7 @@ src/
 
 ## Getting Started
 
-Requirements: [Node.js](https://nodejs.org/) 20 or later and a [PostgreSQL](https://www.postgresql.org/) database, either local or hosted.
+Requirements: [Node.js](https://nodejs.org/) 24 and a [PostgreSQL](https://www.postgresql.org/) database, either local or hosted.
 
 ```bash
 # Clone the repository
