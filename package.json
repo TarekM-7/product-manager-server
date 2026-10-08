@@ -2,7 +2,7 @@
   "name": "product-manager-server",
   "version": "1.0.0",
   "description": "REST API's con Express y Typescript",
-  "license": "ISC",
+  "license": "MIT",
   "author": "Tarek Mariscal",
   "main": "dist/index.js",
   "scripts": {
