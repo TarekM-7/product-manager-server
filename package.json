@@ -1,5 +1,5 @@
 {
-  "name": "rest_api_node_ts_server",
+  "name": "product-manager-server",
   "version": "1.0.0",
   "description": "REST API's con Express y Typescript",
   "license": "ISC",
